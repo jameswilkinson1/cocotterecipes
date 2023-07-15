@@ -1,0 +1,68 @@
+[
+  {
+    "recipe_name": "Salad 1",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "1 cup butter",
+      "1 cup sugar",
+      "2 eggs",
+      "1 tsp vanilla extract",
+      "1 cup chocolate chips"
+    ],
+    "method": [
+      "Preheat the oven to 350°F.",
+      "In a mixing bowl, cream together the butter and sugar.",
+      "Add the eggs and vanilla extract, and mix well.",
+      "Gradually add the flour and mix until combined.",
+      "Fold in the chocolate chips.",
+      "Drop spoonfuls of dough onto a baking sheet.",
+      "Bake for 10-12 minutes or until golden brown.",
+      "Allow the cookies to cool before serving."
+    ]
+  },
+  {
+    "recipe_name": "Salad 2",
+    "ingredients": [
+      "8 oz spaghetti",
+      "1 lb ground beef",
+      "1 onion, diced",
+      "2 cloves garlic, minced",
+      "1 can diced tomatoes",
+      "1/4 cup tomato paste",
+      "1 tsp dried oregano",
+      "1 tsp dried basil",
+      "Salt and pepper to taste"
+    ],
+    "method": [
+      "Cook the spaghetti according to package instructions.",
+      "In a large pan, brown the ground beef with onions and garlic.",
+      "Add the diced tomatoes, tomato paste, oregano, basil, salt, and pepper.",
+      "Simmer for 15-20 minutes, stirring occasionally.",
+      "Serve the Bolognese sauce over cooked spaghetti."
+    ]
+  },
+  {
+    "recipe_name": "Salad 3",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "1 tsp baking soda",
+      "1/4 tsp salt",
+      "1/2 cup unsalted butter, melted",
+      "3/4 cup brown sugar",
+      "2 large eggs",
+      "4 ripe bananas, mashed",
+      "1/4 cup milk",
+      "1 tsp vanilla extract"
+    ],
+    "method": [
+      "Preheat the oven to 350°F.",
+      "In a mixing bowl, combine the flour, baking soda, and salt.",
+      "In another bowl, mix the melted butter and brown sugar.",
+      "Add the eggs, mashed bananas, milk, and vanilla extract. Stir well.",
+      "Gradually add the dry ingredients to the banana mixture and mix until just combined.",
+      "Pour the batter into a greased loaf pan.",
+      "Bake for 50-60 minutes or until a toothpick inserted into the center comes out clean.",
+      "Allow the bread to cool before slicing and serving."
+    ]
+  }
+]
