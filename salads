@@ -1,6 +1,6 @@
 [
   {
-    "recipe_name": "Salad 1",
+    "recipe_name": "Ceaser",
     "ingredients": [
       "2 cups all-purpose flour",
       "1 cup butter",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "recipe_name": "Salad 2",
+    "recipe_name": "Lentil Soy",
     "ingredients": [
       "8 oz spaghetti",
       "1 lb ground beef",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "recipe_name": "Salad 3",
+    "recipe_name": "Aubergine Caviar",
     "ingredients": [
       "2 cups all-purpose flour",
       "1 tsp baking soda",
